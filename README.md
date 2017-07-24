@@ -32,4 +32,4 @@ Copy the contents of the CSS file into your styles.css.
 The only rule: you may only change the CSS; not the HTML.
 When your work is complete, add, commit, and push up the branch (git push origin exercise). Then submit a pull request on Github.
 
-✏️ In an effort to keep this project like the Zen Garden website, this exercise does not have a styles folder.
+✏️ In an effort to keep this project like the Zen Garden website, this exercise does not have a styles folder.# css102-zen-garden
